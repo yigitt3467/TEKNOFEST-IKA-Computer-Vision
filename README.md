@@ -63,3 +63,11 @@ Trafik konisi tespiti için model eğitimi ve video testleri tamamlanmıştır. 
 - NVIDIA RTX 5070 Laptop GPU
 - Python 3.12
 - Ultralytics YOLO 8.4
+
+## Results
+
+### Cone Detection Test
+![Cone Detection](results/cone_detection_video_test.png)
+
+### Model Performance Comparison
+![Model Comparison](results/model_performance_comparison.png)
